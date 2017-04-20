@@ -1,0 +1,6 @@
+"" "15"
+
+377652.4
+
+
+grep("^United",countryNames), 3
